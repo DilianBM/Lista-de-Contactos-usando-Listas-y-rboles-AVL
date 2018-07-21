@@ -1,0 +1,695 @@
+# depslib dependency file v1.0
+1503611391 source:c:\users\javier.vasquez\documents\arbolbg2\btree\main.cpp
+	<iostream>
+	"BTreeG2.h"
+
+1503613313 c:\users\javier.vasquez\documents\arbolbg2\btree\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Node.h"
+
+1503613313 c:\users\javier.vasquez\documents\arbolbg2\btree\include\node.h
+
+1503613313 source:c:\users\javier.vasquez\documents\arbolbg2\btree\src\node.cpp
+	"Node.h"
+
+1504207795 source:c:\users\javier.vasquez\documents\2017\c++ 2017\arbolbinario\arbolbg2\btree\main.cpp
+	<iostream>
+	"BTreeG2.h"
+
+1504032779 c:\users\javier.vasquez\documents\2017\c++ 2017\arbolbinario\arbolbg2\btree\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Node.h"
+
+1503671736 c:\users\javier.vasquez\documents\2017\c++ 2017\arbolbinario\arbolbg2\btree\include\node.h
+
+1503671736 source:c:\users\javier.vasquez\documents\2017\c++ 2017\arbolbinario\arbolbg2\btree\src\node.cpp
+	"Node.h"
+
+1504207746 source:c:\users\javier.vasquez\documents\2017\c++ 2017\arbolbinario\arbolbg2\btree\src\btreeg2.cpp
+	"BTreeG2.h"
+
+1504399611 source:c:\users\ultimate 7\desktop\btree-v1-4\main.cpp
+	<iostream>
+	"BTreeG2.h"
+
+1504395771 c:\users\ultimate 7\desktop\btree-v1-4\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Node.h"
+
+1504409655 c:\users\ultimate 7\desktop\btree-v1-4\include\node.h
+
+1504399647 source:c:\users\ultimate 7\desktop\btree-v1-4\src\btreeg2.cpp
+	"BTreeG2.h"
+
+1504409617 source:c:\users\ultimate 7\desktop\btree-v1-4\src\node.cpp
+	"Node.h"
+
+1504408547 source:c:\users\ultimate 7\desktop\btree-v1-4\src\contactos.cpp
+	"Contactos.h"
+
+1504408274 c:\users\ultimate 7\desktop\btree-v1-4\include\contactos.h
+	<iostream>
+	<string>
+	<sstream>
+
+1504411908 source:c:\users\ultimate 7\desktop\btree-v1-4\src\lista.cpp
+	"Lista.h"
+	"Contactos.h"
+	<string>
+	<sstream>
+	<iostream>
+
+1504412235 c:\users\ultimate 7\desktop\btree-v1-4\include\lista.h
+	<string>
+	<sstream>
+
+1504413433 source:c:\users\ultimate 7\desktop\btree-v1-4\src\listas.cpp
+	"Listas.h"
+	<string>
+	<sstream>
+
+1504413679 c:\users\ultimate 7\desktop\btree-v1-4\include\listas.h
+	<string>
+	<sstream>
+
+1504413746 source:c:\users\ultimate 7\desktop\btree-v1-4\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1504413795 c:\users\ultimate 7\desktop\btree-v1-4\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505238536 source:c:\users\ultimate 7\desktop\tp1\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"Interfaz.h"
+
+1505238067 c:\users\ultimate 7\desktop\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1504842690 c:\users\ultimate 7\desktop\tp1\include\node.h
+	"Listas.h"
+
+1505191755 source:c:\users\ultimate 7\desktop\tp1\src\btreeg2.cpp
+	"BTreeG2.h"
+	"Listas.h"
+	<sstream>
+
+1504936682 source:c:\users\ultimate 7\desktop\tp1\src\node.cpp
+	"Node.h"
+	"Listas.h"
+
+1504464010 source:c:\users\ultimate 7\desktop\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1504475892 c:\users\ultimate 7\desktop\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505189214 source:c:\users\ultimate 7\desktop\tp1\src\listas.cpp
+	"Listas.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+
+1505234830 c:\users\ultimate 7\desktop\tp1\include\listas.h
+
+1505190679 source:c:\users\ultimate 7\desktop\tp1\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<Listas.h>
+	<cstdlib>
+	<cstring>
+
+1504998219 c:\users\ultimate 7\desktop\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<Listas.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505238310 c:\users\ultimate 7\desktop\tp1\include\nodo.h
+	"Contacto.h"
+
+1505238462 c:\users\ultimate 7\desktop\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1505274242 source:c:\users\joses\desktop\progra 2 javier\tp1\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"Interfaz.h"
+
+1505272757 c:\users\joses\desktop\progra 2 javier\tp1\include\nodo.h
+	"Contacto.h"
+
+1505238462 c:\users\joses\desktop\progra 2 javier\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475892 c:\users\joses\desktop\progra 2 javier\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505262115 c:\users\joses\desktop\progra 2 javier\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<Listas.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505238067 c:\users\joses\desktop\progra 2 javier\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505234830 c:\users\joses\desktop\progra 2 javier\tp1\include\listas.h
+
+1505261847 source:c:\users\joses\desktop\progra 2 javier\tp1\src\btreeg2.cpp
+
+1505241522 source:c:\users\joses\desktop\progra 2 javier\tp1\src\contacto.cpp
+	"Contacto.h"
+
+1505272101 source:c:\users\joses\desktop\progra 2 javier\tp1\src\interfaz.cpp
+
+1504936682 source:c:\users\joses\desktop\progra 2 javier\tp1\src\node.cpp
+	"Node.h"
+	"Listas.h"
+
+1504842690 c:\users\joses\desktop\progra 2 javier\tp1\include\node.h
+	"Listas.h"
+
+1505273625 source:c:\users\joses\desktop\progra 2 javier\tp1\src\nodo.cpp
+	"Nodo.h"
+	"Listas.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+
+1504464010 source:c:\users\joses\desktop\progra 2 javier\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1505367333 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\main.cpp
+	"BTreeG2.h"
+	<stdio.h>
+	"Nodo.h"
+	"Interfaz.h"
+
+1505326190 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\nodo.h
+	"Contacto.h"
+
+1505326190 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475892 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505262115 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<Listas.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505277756 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505234830 c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\include\listas.h
+
+1505403575 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505326289 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\src\contacto.cpp
+	"Contacto.h"
+
+1505272101 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\src\interfaz.cpp
+
+1505403998 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\src\nodo.cpp
+	"Nodo.h"
+	"Listas.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+
+1504464010 source:c:\users\ultimate 7\desktop\nueva carpeta (2)\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+
+1505448852 c:\users\ultimate 7\desktop\tarea actual\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505448852 c:\users\ultimate 7\desktop\tarea actual\tp1\include\nodo.h
+	"Contacto.h"
+
+1505448852 c:\users\ultimate 7\desktop\tarea actual\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475892 c:\users\ultimate 7\desktop\tarea actual\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505594347 c:\users\ultimate 7\desktop\tarea actual\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505234830 c:\users\ultimate 7\desktop\tarea actual\tp1\include\listas.h
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\src\contacto.cpp
+	"Contacto.h"
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+
+1505594347 source:c:\users\ultimate 7\desktop\tarea actual\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1505594347 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+
+1505448852 c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\include\nodo.h
+	"Contacto.h"
+
+1505448852 c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475892 c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505448852 c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505594347 c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505594347 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594347 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\src\contacto.cpp
+	"Contacto.h"
+
+1505675363 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1505594347 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1505674703 source:c:\users\joses\desktop\progra 2 javier\tarea actual\tp1\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+	<ctype.h>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+
+1505448854 c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\include\nodo.h
+	"Contacto.h"
+
+1505448854 c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475894 c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505448854 c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505594348 c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\src\contacto.cpp
+	"Contacto.h"
+
+1505675364 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1505674704 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+	<ctype.h>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1\tarea actual\tp1\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1505686008 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+
+1505694697 c:\users\ultimate 7\desktop\tp1_b50800_b46912\include\nodo.h
+	"Contacto.h"
+
+1505683331 c:\users\ultimate 7\desktop\tp1_b50800_b46912\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475894 c:\users\ultimate 7\desktop\tp1_b50800_b46912\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505448854 c:\users\ultimate 7\desktop\tp1_b50800_b46912\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505594348 c:\users\ultimate 7\desktop\tp1_b50800_b46912\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505684607 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\src\contacto.cpp
+	"Contacto.h"
+
+1505685400 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+
+1505685128 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+	<ctype.h>
+
+1505594348 source:c:\users\ultimate 7\desktop\tp1_b50800_b46912\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1517857902 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+	<vector>
+
+1505694697 c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\include\nodo.h
+	"Contacto.h"
+
+1505683331 c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475894 c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505448854 c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505594348 c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505684607 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594348 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\src\contacto.cpp
+	"Contacto.h"
+
+1517857834 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	<exception>
+
+1505685128 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+	<ctype.h>
+
+1505594348 source:c:\users\ultimate 7\desktop\progra 2 javier\tp1_b50800_b46912\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
+1517858066 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\main.cpp
+	<stdio.h>
+	"Nodo.h"
+	"BTreeG2.h"
+	"Interfaz.h"
+	<vector>
+
+1505694698 c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\include\nodo.h
+	"Contacto.h"
+
+1505683332 c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\include\contacto.h
+	"NumTelefono.h"
+	<string>
+
+1504475894 c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\include\numtelefono.h
+	<string>
+	<sstream>
+
+1505448854 c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\include\btreeg2.h
+	<string>
+	<sstream>
+	<new>
+	<iostream>
+	"Nodo.h"
+
+1505594348 c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\include\interfaz.h
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	<cstdlib>
+	<Interfaz.h>
+	<cstring>
+
+1505684608 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\src\btreeg2.cpp
+	"BTreeG2.h"
+	<sstream>
+	<string>
+
+1505594348 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\src\contacto.cpp
+	"Contacto.h"
+
+1517857836 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\src\interfaz.cpp
+	"Interfaz.h"
+	<iostream>
+	"BTreeG2.h"
+	<stdio.h>
+	<string.h>
+	"Nodo.h"
+	"Contacto.h"
+	"NumTelefono.h"
+	<cstdlib>
+	<cstring>
+	<ctype.h>
+	<exception>
+
+1505685130 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\src\nodo.cpp
+	"Nodo.h"
+	<string>
+	<sstream>
+	"NumTelefono.h"
+	"BTreeG2.h"
+	"Contacto.h"
+	<ctype.h>
+
+1505594348 source:c:\users\dilian\desktop\nueva carpeta\tp1_b50800_b46912\src\numtelefono.cpp
+	"NumTelefono.h"
+	<string>
+	<sstream>
+
